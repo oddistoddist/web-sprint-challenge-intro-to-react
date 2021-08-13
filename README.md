@@ -24,7 +24,7 @@ For a step-by-step on setting up Codegrade see [this guide.](https://www.notion.
 
 ### Introduction
 
-In this challenge you will create a web page that presents a styled list of characters obtained from an API. Being able to render out data to a web page is a large part of what JavaScript developers do, this challenge assesses your ability to achieve such a task.
+In this challenge you will create a web page that presents a styled list of characters obtained from an API. Being able to render out data to a web page is a largnpme part of what JavaScript developers do, this challenge assesses your ability to achieve such a task.
 
 In meeting the minimum viable product (MVP) specifications listed below, your project might look somewhat similar to the solution examples below:
 
@@ -81,6 +81,10 @@ After finishing your required elements, you can push your work further. These go
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
+js library, using virtual dom allows updates to be seemlessg
 1. Describe component state.
+  data that can change
 1. Describe props.
+data transfered betwix parent component and children
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+A side effect is any execution that affects something outside the scope of the function being executed, you put it in the second argumentt 
